@@ -1,6 +1,6 @@
 # top-tricks
 
-Git Stash Before Switching Branches
+- Git Stash Before Switching Branches ✅
 
 Reverse Search in Terminal (ctrl + r)
 
