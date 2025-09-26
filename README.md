@@ -1,8 +1,6 @@
 # top-tricks
 
 - Git Stash Before Switching Branches ✅
-- Reverse Search in Terminal (ctrl + r) ✅
-
 Python Variable Swap Trick
 
 Format JSON Instantly in VS Code
