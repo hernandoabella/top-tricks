@@ -1,195 +1,7 @@
 # top-tricks
 
+## Git & Version Control
 - Git Stash Before Switching Branches ✅
-Python Variable Swap Trick
-
-Format JSON Instantly in VS Code
-
-Python f-Strings Magic
-
-Console Log Objects in JavaScript
-
-Faster Lookups with Sets
-
-Global .gitignore Setup
-
-Python One-Liner Web Server
-
-Regex Email Validation in JavaScript
-
-Alias Commands in Terminal
-
-Use git bisect to Find Bugs
-
-Comment Multiple Lines Quickly
-
-Multi-Cursor Editing in VS Code
-
-Use .env Files for Secrets
-
-Pipe Commands with | in Bash
-
-Pretty Print JSON with jq
-
-Use htop Instead of top
-
-Run Docker Without Installation (Play With Docker)
-
-SSH Key Login Instead of Passwords
-
-Use Prettier/Black for Auto Formatting
-
-Debugging with pdb in Python
-
-Use npx Instead of Global Installs
-
-Automate with Makefiles
-
-Use ripgrep Instead of grep
-
-Interactive Python with ipython
-
-Git Aliases for Shortcuts
-
-Write Better Commits with Conventional Commits
-
-Use watch Command for Auto-Refreshing Output
-
-Avoid Merge Conflicts with .gitattributes
-
-Test APIs with httpie Instead of Curl
-
-Inline if Statements in Python
-
-Object Destructuring in JavaScript
-
-Template Literals in JavaScript
-
-Use pathlib in Python
-
-Keyboard Shortcuts in VS Code
-
-VS Code Live Share for Pair Programming
-
-Use .editorconfig for Consistent Code Style
-
-Search and Replace with Regex in Editors
-
-Chunk Arrays with Slices in Python
-
-Nullish Coalescing Operator (??) in JS
-
-Spread Operator (...) in JS
-
-List Comprehensions in Python
-
-Dictionary Comprehensions in Python
-
-Use zip() for Parallel Iteration in Python
-
-Default Dict with collections in Python
-
-Named Tuples in Python
-
-Use itertools for Powerful Iteration
-
-Async/Await Syntax in JavaScript
-
-Virtual Environments in Python
-
-Use pyenv for Python Versions
-
-Use nvm for Node Versions
-
-Format Dates with date-fns or moment.js
-
-Debugging with console.table() in JS
-
-Fuzzy Finder with fzf in Terminal
-
-Using GitHub CLI (gh)
-
-Use docker-compose for Multi-Service Apps
-
-Code Snippets in VS Code
-
-Use loc and iloc in Pandas
-
-Use .map() Instead of Loops in JS
-
-Use filter() Instead of Loops in JS
-
-Use .reduce() for Aggregations in JS
-
-Use List Slicing in Python
-
-Dictionary Merging with | in Python 3.9+
-
-Use Type Hints in Python
-
-Use dataclasses in Python
-
-FastAPI for Quick APIs in Python
-
-Use REST Client Extension in VS Code
-
-Auto-Generate Requirements with pip freeze
-
-Quick Python HTTP Requests with requests
-
-Use curl -I to Check Headers
-
-Use dig for DNS Lookup
-
-Test Ports with nc or telnet
-
-Monitor Logs with tail -f
-
-Use GitHub Actions for CI/CD
-
-Create Virtual Desktops for Focus
-
-Markdown Cheatsheet Tricks
-
-Use Mermaid.js for Diagrams in Markdown
-
-Use Git Submodules Wisely
-
-Squash Commits Before Merge
-
-Cherry-Pick Commits in Git
-
-Use git reflog to Recover Lost Commits
-
-Optimize Images with imagemin
-
-Use SVG Icons Instead of PNGs
-
-Deploy with Vercel/Netlify Easily
-
-Auto-Generate Documentation with Doxygen/Sphinx
-
-Unit Testing with Pytest
-
-Snapshot Testing with Jest
-
-Lint Your Code with ESLint/Flake8
-
-Use Husky for Pre-Commit Hooks
-
-Use Pre-Commit for Python Hooks
-
-Create Aliases in Git Bash
-
-Use tree Command for Directory View
-
-Use du -sh to Check Folder Size
-
-Use alias ll="ls -la" in Terminal
-
-🌀 Git & Version Control
-
-Git Stash Before Switching Branches
 
 Git Bisect to Find Bugs
 
@@ -211,7 +23,7 @@ Signed Commits with GPG
 
 Conventional Commits for Clean History
 
-⚡ Terminal & Shell Magic
+## Terminal & Shell Magic
 
 Reverse Search in Terminal (ctrl + r)
 
@@ -279,7 +91,7 @@ Pandas loc vs iloc
 
 Pretty Print Objects with pprint
 
-🌐 JavaScript Sorcery
+## JavaScript Sorcery
 
 Console Log Objects ({ user, age })
 
@@ -313,7 +125,7 @@ Local Storage Hacks
 
 Event Delegation for Performance
 
-🛠️ DevOps & Productivity
+## DevOps & Productivity
 
 Docker-Compose for Multi-Service Apps
 
@@ -345,7 +157,7 @@ Use Vercel/Netlify for One-Click Deploy
 
 Use Mermaid.js for Diagrams in Markdown
 
-🌍 Networking & Web Tools
+## Networking & Web Tools
 
 Spin Up Python Web Server (python -m http.server)
 
@@ -367,7 +179,7 @@ CDN vs Local Assets Trick
 
 Progressive Image Loading
 
-🧪 Testing & Debugging
+## Testing & Debugging
 
 Unit Testing with Pytest
 
@@ -387,7 +199,7 @@ Benchmarking with timeit in Python
 
 Testing REST APIs with Postman
 
-📦 Data & Algorithms
+## Data & Algorithms
 
 Big-O Basics for Everyday Code
 
@@ -405,7 +217,7 @@ Memoization with functools.lru_cache
 
 Dynamic Programming with Dictionaries
 
-📝 Markdown & Documentation
+## Markdown & Documentation
 
 Markdown Cheatsheet Tricks
 
@@ -421,7 +233,7 @@ Use Shields.io Badges
 
 Collapsible Sections in Markdown
 
-🎨 Code Styling & Clean Code
+## Code Styling & Clean Code
 
 Use Meaningful Variable Names
 
@@ -447,57 +259,34 @@ Use Linters (ESLint, Flake8)
 
 Auto-Formatters (Prettier, Black)
 
-🧩 Data Structures & Patterns
-
+## Data Structures & Patterns
 Stack vs Queue Quick Implementations
-
 Linked List Trick Implementations
-
 Graph Traversals (DFS/BFS)
-
 Two-Pointer Technique
-
 Sliding Window Technique
-
 Hash Maps for Instant Lookups
-
 Priority Queue with Heaps
-
 Trie for Fast Prefix Matching
-
 Union-Find for Connected Components
-
 Observer Pattern
-
 Singleton Pattern
-
 Factory Pattern
-
 Decorator Pattern
 
-📚 Learning & Knowledge Hacks
+## Learning & Knowledge Hacks
+- Feynman Technique for Code Learning
+- Build Side Projects to Learn Faster
+- Read Other People’s Code
+- Use LeetCode/CodeWars for Practice
+- Open Source Contributions
+- Keep a Digital Notebook of Snippets
+- Pair Programming for Fast Learning
+- Teaching as a Learning Hack
+- Daily Coding Journal Habit
+- Flashcards for Syntax Memorization
 
-Feynman Technique for Code Learning
-
-Build Side Projects to Learn Faster
-
-Read Other People’s Code
-
-Use LeetCode/CodeWars for Practice
-
-Open Source Contributions
-
-Keep a Digital Notebook of Snippets
-
-Pair Programming for Fast Learning
-
-Teaching as a Learning Hack
-
-Daily Coding Journal Habit
-
-Flashcards for Syntax Memorization
-
-🖥️ IDE & Editor Ninja Moves
+## IDE & Editor Ninja Moves
 
 Multi-Cursor Editing (VS Code, JetBrains)
 
@@ -519,7 +308,7 @@ Refactor Tools in IDE
 
 Extensions for Productivity
 
-🌍 Web Development Hacks
+## Web Development Hacks
 
 Use Flexbox for Quick Layouts
 
@@ -545,7 +334,7 @@ SEO-Friendly Tags & Meta
 
 WebP for Images
 
-📊 Data Science & ML Tricks
+## Data Science & ML Tricks
 
 Use pandas Vectorization Instead of Loops
 
@@ -571,7 +360,7 @@ Save Models with Pickle/Joblib
 
 Use GPU with TensorFlow/PyTorch
 
-🛡️ Security Tricks
+## Security Tricks
 
 Don’t Hardcode Secrets (Use .env)
 
@@ -597,7 +386,7 @@ Keep Software Updated
 
 Principle of Least Privilege
 
-🚀 Performance Optimization
+## Performance Optimization
 
 Cache Expensive Operations
 
@@ -623,7 +412,7 @@ Memoization for Expensive Functions
 
 Tree Shaking in JS Bundlers
 
-🕹️ Fun & Easter Eggs
+## Fun & Easter Eggs
 
 sl Command in Linux (Steam Locomotive)
 
@@ -659,7 +448,7 @@ Offline-First with SQLite/Room
 
 Push Notifications with Firebase
 
-🎮 Game Development
+## Game Development
 
 Unity Editor Shortcuts
 
@@ -681,7 +470,7 @@ Input Mapping Best Practices
 
 Godot Signals for Communication
 
-☁️ Cloud & Infrastructure
+## Cloud & Infrastructure
 
 AWS CLI Shortcuts
 
@@ -703,7 +492,7 @@ Use kubectl describe for Debugging
 
 Monitor with Grafana/Prometheus
 
-💾 Database Wizardry
+## Database Wizardry
 
 Use Indexes Wisely
 
@@ -725,27 +514,17 @@ Foreign Keys and Cascades
 
 Backup and Restore Like a Pro
 
-🤖 Automation & AI
-
-Bash Scripts for Repetitive Tasks
-
-Cron Jobs for Scheduling
-
-Automate APIs with Python Requests
-
-Web Scraping with BeautifulSoup
-
-Automate Browsers with Puppeteer
-
-Auto-Reply Bots in Telegram/Discord
-
-Use OpenAI API for Text Magic
-
-Automate Emails with SMTP
-
-Batch Rename Files with Scripts
-
-OCR with Tesseract
+## Automation & AI
+- Bash Scripts for Repetitive Tasks
+- Cron Jobs for Scheduling
+- Automate APIs with Python Requests
+- Web Scraping with BeautifulSoup
+- Automate Browsers with Puppeteer
+- Auto-Reply Bots in Telegram/Discord
+- Use OpenAI API for Text Magic
+- Automate Emails with SMTP
+- Batch Rename Files with Scripts
+- OCR with Tesseract
 
 🛒 Career & Productivity
 
@@ -769,7 +548,7 @@ Keyboard Shortcuts for Everything
 
 Prep Interview with LeetCode Patterns
 
-🎧 Lifestyle & Workflow
+## Lifestyle & Workflow
 
 Pomodoro Technique for Focus
 
@@ -792,6 +571,7 @@ Track Habits with Apps
 Journaling Your Coding Journey
 
 AI Tricks for Programmers (Guru Level)
+
 🧠 Core AI & ML Basics
 
 Normalize Data Before Training
